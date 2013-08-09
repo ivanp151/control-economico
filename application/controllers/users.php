@@ -66,8 +66,8 @@ class users extends CI_Controller{
         $config['smtp_host']    = 'ssl://smtp.gmail.com';
         $config['smtp_port']    = '465';
         $config['smtp_timeout'] = '7';
-        $config['smtp_user']    = 'ivanp151@gmail.com';
-        $config['smtp_pass']    = 'reina1+9';
+        $config['smtp_user']    = 'xxxxxx@xxx.com';
+        $config['smtp_pass']    = 'xxxxx';
         $config['charset']    = 'utf-8';
         $config['newline']    = "\r\n";
         $config['mailtype'] = 'html'; // or html
